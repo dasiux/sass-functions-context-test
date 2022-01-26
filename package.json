@@ -1,0 +1,23 @@
+{
+  "name": "sass-functions-context-test",
+  "version": "1.0.0",
+  "description": "A small test setup to check for sass custom function context object.",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasiux/sass-functions-context-test.git"
+  },
+  "keywords": [],
+  "author": "Daniel Hartwell <me@siux.info> (http://siux.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasiux/sass-functions-context-test/issues"
+  },
+  "homepage": "https://github.com/dasiux/sass-functions-context-test#readme",
+  "dependencies": {
+    "sass": "^1.49.0"
+  }
+}
